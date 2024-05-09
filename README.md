@@ -22,6 +22,7 @@ Hi there! I'm 卜凡, a [CZO] based in [4AOL]. I'm passionate about [design] and
 ## About Me
 
 I'm a [A sophomore in college]. I have a strong interest in [design] and I'm always looking for ways to [Achievements in design]. I'm also a big fan of [your hobbies or passions].
+![Your Photo](img/微信图片_20240106230645.jpg)
 
 ## My Skills
 
